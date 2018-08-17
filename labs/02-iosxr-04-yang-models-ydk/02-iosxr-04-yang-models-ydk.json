@@ -5,6 +5,8 @@
   "time": 45,
   "byod": false,
   "files": [
+    {"title": "Introduction",
+      "file": "1.md"}
   ],
   "tags": [
 	{"title": "YANG"},
