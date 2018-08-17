@@ -35,15 +35,15 @@
     },
     {           
                 "labId": "03-iosxr-02-telemetry-python",
-                "title": “Creating your first python Telemetry Collector“
+                "title": "Creating your first python Telemetry Collector"
     },
     {           
                 "labId": "03-iosxr-04-telemetry-pipeline-golang",
-                "title": “Using Pipeline: An Open-Source Golang Telemetry Collector for IOS-XR”
+                "title": "Using Pipeline: An Open-Source Golang Telemetry Collector for IOS-XR"
     },
     {           
                 "labId": "03-iosxr-05-telemetry-onbox",
-                "title": “Deploying a Telemetry Collector on-box“
+                "title": "Deploying a Telemetry Collector on-box"
     }
   ],
   "authors": [

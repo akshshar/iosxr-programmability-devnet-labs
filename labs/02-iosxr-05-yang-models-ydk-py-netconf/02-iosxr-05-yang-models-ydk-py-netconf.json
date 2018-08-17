@@ -47,7 +47,7 @@
     {
                 "labId": "02-iosxr-04-yang-models-ydk",
                 "title": "Understanding the Yang development Kit (YDK)"
-    },
+    }
   ],
   "authors": [
       {"name": "Akshat Sharma", "email": "akshshar@cisco.com"}

@@ -1,6 +1,6 @@
 {
   "labId": "04-iosxr-01-service-layer",
-  "title": “Service-Layer APIs: Bring your own Protocol/Controller”
+  "title": "Service-Layer APIs: Bring your own Protocol/Controller"
   "slug": "Learn how Scalable and Real-time monitoring can be achieved through IOS-XR's model-driven Streaming Telemetry capabilities",
   "time": 45,
   "byod": false,
@@ -35,19 +35,19 @@
   "related": [
     {
                 "labId": "04-iosxr-01-service-layer",
-                "title": “Service-Layer APIs: Bring your own Protocol/Controller”
+                "title": "Service-Layer APIs: Bring your own Protocol/Controller"
     },
     {
                 "labId": "04-iosxr-03-service-layer-c++",
-                "title": "Your first c++ service-layer API RIB client”
+                "title": "Your first c++ service-layer API RIB client"
     },
     {
                 "labId": "04-iosxr-04-service-layer-golang",
-                "title": “Your first golang service-layer API RIB client”
+                "title": "Your first golang service-layer API RIB client"
     },
     {
                 "labId": "04-iosxr-05-service-layer-onbox",
-                "title": “Deploying a Service-layer API client on-box“
+                "title": "Deploying a Service-layer API client on-box"
     }
   ],
   "authors": [
