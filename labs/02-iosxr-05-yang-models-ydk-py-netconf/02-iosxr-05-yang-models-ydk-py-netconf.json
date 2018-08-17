@@ -1,6 +1,6 @@
 {
   "labId": "02-iosxr-05-yang-models-ydk-py-netconf",
-  "title": "IOS-XR YANG models: Using YDK-py over netconf"
+  "title": "IOS-XR YANG models: Using YDK-py over netconf",
   "slug": "Understand the Model-Driven Manageability Layer of the IOS-XR stack, based on Yang models",
   "time": 45,
   "byod": false,

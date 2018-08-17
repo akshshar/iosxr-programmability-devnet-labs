@@ -1,6 +1,6 @@
 {
   "labId": "03-iosxr-03-telemetry-c++",
-  "title": "Creating your first c++ Telemetry Collector"
+  "title": "Creating your first c++ Telemetry Collector",
   "slug": "Learn how Scalable and Real-time monitoring can be achieved through IOS-XR's model-driven Streaming Telemetry capabilities",
   "time": 45,
   "byod": false,
