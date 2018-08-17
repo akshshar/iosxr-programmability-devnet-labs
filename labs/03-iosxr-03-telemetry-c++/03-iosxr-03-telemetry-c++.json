@@ -31,7 +31,7 @@
   "related": [
     {
                 "labId": "03-iosxr-01-telemetry",
-                "title": "IOS-XR Streaming Telemetry: Monitoring done the right way”
+                "title": "IOS-XR Streaming Telemetry: Monitoring done the right way"
     },
     {           
                 "labId": "03-iosxr-02-telemetry-python",

@@ -1,6 +1,6 @@
 {
   "labId": "04-iosxr-01-service-layer",
-  "title": "Service-Layer APIs: Bring your own Protocol/Controller"
+  "title": "Service-Layer APIs: Bring your own Protocol/Controller",
   "slug": "Learn how Scalable and Real-time monitoring can be achieved through IOS-XR's model-driven Streaming Telemetry capabilities",
   "time": 45,
   "byod": false,
