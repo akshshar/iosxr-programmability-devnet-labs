@@ -5,16 +5,22 @@
   "time": 45,
   "byod": false,
   "files": [
-    {"title": "Introduction: Understanding ZTP and the ZTP python helper library",
+    {"title": "Deconstructing the IOS-XR Network Stack",
       "file": "1.md"},
-    {"title": "Step 1: Playing with the onbox ZTP python hooks",
+    {"title": "Where do the Service Layer APIs sit? ",
       "file": "2.md"},
-    {"title": "Step 2: Writing your first onbox IOS-XR CLI python script",
+    {"title": "Why do we need another API?",
       "file": "3.md"},
-    {"title": "Step 3: Offbox IOS-XR CLI automation over SSH",
+    {"title": "Making the case for Service-Layer APIs",
      "file": "4.md"},
-    {"title": "Step 4: Extending offbox automation to Config Management tools",
-     "file": "5.md"}
+    {"title": "Service-Layer API Architecture",
+     "file": "5.md"},
+    {"title": "Service-Layer API: Template RPCs",
+     "file": "6.md"},
+    {"title": "I'm a Developer, Where and how do I start?",
+     "file": "7.md"},
+    {"title": "The Workflow: Writing your first SL-API GRPC client",
+     "file": "8.md"}
   ],
   "tags": [
 	{"title": "Service-Layer"},

@@ -1,20 +1,22 @@
 {
   "labId": "01-iosxr-01-cli-automation-bash",
   "title": "IOS-XR CLI automation - Bash",
-  "slug": "Automate IOS-XR CLI with onbox bash scripts using ZTP hooks",
+  "slug": "If you've been busy developing or utilizing external tools that help automate the IOS-XR CLI over Telnet/SSH using expect style send/receive transactions, then it is time to take a look at the new ZTP hooks embedded on the device. In this lab, we look at ZTP bash hooks, enabling you to deterministically handle IOS-XR CLI automation across show commands, config-apply, config-replace and more using on-box bash scripts or remote bash commands.",
   "time": 45,
   "byod": false,
   "files": [
-    {"title": "Introduction: Understanding ZTP and the ZTP bash helper library",
+    {"title": "Prelude",
       "file": "1.md"},
-    {"title": "Step 1: Playing with the onbox ZTP bash hooks",
+    {"title": "Introduction: Understanding ZTP and the ZTP bash helper library",
       "file": "2.md"},
-    {"title": "Step 2: Writing your first onbox IOS-XR CLI bash script",
+    {"title": "Step 1: Playing with the onbox ZTP bash hooks",
       "file": "3.md"},
+    {"title": "Step 2: Writing your first onbox IOS-XR CLI bash script",
+      "file": "4.md"},
     {"title": "Step 3: Offbox IOS-XR CLI automation over SSH",
-     "file": "4.md"},
+     "file": "5.md"},
     {"title": "Step 4: Extending offbox automation to Config Management tools",
-     "file": "5.md"}
+     "file": "6.md"}
   ],
   "tags": [
 	{"title": "Bash"},

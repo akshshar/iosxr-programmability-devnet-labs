@@ -5,18 +5,6 @@
   "time": 45,
   "byod": false,
   "files": [
-    {"title": "Deconstructing the IOS-XR Network Stack",
-      "file": "1.md"},
-    {"title": "Understanding Sysdb",
-      "file": "2.md"},
-    {"title": "What is YANG?",
-      "file": "3.md"},
-    {"title": "Support for OpenConfig and Native YANG models",
-      "file": "4.md"},
-    {"title": "Transport-agnostic model-driven APIs",
-     "file": "5.md"},
-    {"title": "Tools: How do I consume these APIs?",
-     "file": "6.md"}
   ],
   "tags": [
 	{"title": "YANG"},
