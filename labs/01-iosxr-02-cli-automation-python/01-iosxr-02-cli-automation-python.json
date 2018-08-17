@@ -1,5 +1,5 @@
 {
-  "labId": "01-iosxr-01-cli-automation-python",
+  "labId": "01-iosxr-02-cli-automation-python",
   "title": "IOS-XR CLI automation - Python",
   "slug": "Automate IOS-XR CLI with onbox Python scripts using ZTP hooks",
   "time": 45,
