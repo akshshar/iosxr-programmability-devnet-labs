@@ -48,7 +48,7 @@
     {
                 "labId": "04-iosxr-04-service-layer-golang",
                 "title": "Your first golang service-layer API RIB client"
-    },
+    }
   ],
   "authors": [
       {"name": "Akshat Sharma", "email": "akshshar@cisco.com"}
