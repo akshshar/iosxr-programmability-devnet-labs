@@ -1,0 +1,57 @@
+{
+  "labId": "04-iosxr-03-service-layer-c++",
+  "title": "Your first c++ service-layer API RIB client”
+  "slug": "Learn how Scalable and Real-time monitoring can be achieved through IOS-XR's model-driven Streaming Telemetry capabilities",
+  "time": 45,
+  "byod": false,
+  "files": [
+    {"title": "Introduction: Understanding ZTP and the ZTP python helper library",
+      "file": "1.md"},
+    {"title": "Step 1: Playing with the onbox ZTP python hooks",
+      "file": "2.md"},
+    {"title": "Step 2: Writing your first onbox IOS-XR CLI python script",
+      "file": "3.md"},
+    {"title": "Step 3: Offbox IOS-XR CLI automation over SSH",
+     "file": "4.md"},
+    {"title": "Step 4: Extending offbox automation to Config Management tools",
+     "file": "5.md"}
+  ],
+  "tags": [
+	{"title": "Service-Layer"},
+        {"title": "IOS-XR"},
+        {"title": "Cisco"},
+        {"title": "Automation"},
+        {"title": "Events"},
+        {"title": "gRPC"},
+        {"title": "GPB"},
+        {"title": "model-driven"},
+        {"title": "RIB"},
+        {"title": "Label Switch Database"},
+        {"title": "Interfaces"},
+        {"title": "BFD"},
+        {"title": "Performance"},
+        {"title": "onbox"}
+  ],
+  "related": [
+    {
+                "labId": "04-iosxr-01-service-layer",
+                "title": “Service-Layer APIs: Bring your own Protocol/Controller”
+    },
+    {           
+                "labId": "04-iosxr-02-service-layer-python",
+                "title": “Your first python service-layer API RIB client“
+    },
+    {
+                "labId": "04-iosxr-04-service-layer-golang",
+                "title": “Your first golang service-layer API RIB client”
+    },
+    {
+                "labId": "04-iosxr-05-service-layer-onbox",
+                "title": “Deploying a Service-layer API client on-box“
+    }
+  ],
+  "authors": [
+      {"name": "Akshat Sharma", "email": "akshshar@cisco.com"}
+  ],
+  "active": true
+}

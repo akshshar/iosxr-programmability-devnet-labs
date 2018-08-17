@@ -1,0 +1,57 @@
+{
+  "labId": "02-iosxr-01-yang-models",
+  "title": "Model-Driven Manageability: Yang Models on IOS-XR",
+  "slug": "Understand the YANG-based Model-Driven Manageability Layer of the IOS-XR stack",
+  "time": 45,
+  "byod": false,
+  "files": [
+    {"title": "Deconstructing the IOS-XR Network Stack",
+      "file": "1.md"},
+    {"title": "Understanding Sysdb",
+      "file": "2.md"},
+    {"title": "What is YANG?",
+      "file": "3.md"},
+    {"title": "Support for OpenConfig and Native YANG models",
+      "file": "4.md"},
+    {"title": "Transport-agnostic model-driven APIs",
+     "file": "5.md"},
+    {"title": "Tools: How do I consume these APIs?",
+     "file": "6.md"}
+  ],
+  "tags": [
+	{"title": "YANG"},
+        {"title": "IOS-XR"},
+        {"title": "Cisco"},
+        {"title": "model-driven"},
+        {"title": "Automation"},
+        {"title": "sysdb"},
+        {"title": "ydk"},
+        {"title": "grpc"},
+        {"title": "ncclient"},
+        {"title": "netconf"},
+        {"title": "openconfig"}
+  ],
+  "related": [
+    {
+                "labId": "02-iosxr-02-yang-models-ncclient",
+                "title": "IOS-XR YANG models: Using ncclient over netconf"
+    },
+    {
+                "labId": "02-iosxr-03-yang-models-grpc",
+                "title": "IOS-XR YANG models: Using gRPC"
+    },
+    {
+                "labId": "02-iosxr-04-yang-models-ydk",
+                "title": "Understanding the Yang development Kit (YDK)"
+    },
+    {
+                "labId": "02-iosxr-05-yang-models-ydk-py-netconf",
+                "title": "IOS-XR YANG models: Using YDK-py over netconf"
+    }
+
+  ],
+  "authors": [
+      {"name": "Akshat Sharma", "email": "akshshar@cisco.com"}
+  ],
+  "active": true
+}

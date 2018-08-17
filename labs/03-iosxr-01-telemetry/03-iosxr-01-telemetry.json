@@ -1,0 +1,53 @@
+{
+  "labId": "03-iosxr-01-telemetry",
+  "title": "IOS-XR Streaming Telemetry: Monitoring done the right way",
+  "slug": "Learn how Scalable and Real-time monitoring can be achieved through IOS-XR's model-driven Streaming Telemetry capabilities",
+  "time": 45,
+  "byod": false,
+  "files": [
+    {"title": "Introduction: Understanding ZTP and the ZTP python helper library",
+      "file": "1.md"},
+    {"title": "Step 1: Playing with the onbox ZTP python hooks",
+      "file": "2.md"},
+    {"title": "Step 2: Writing your first onbox IOS-XR CLI python script",
+      "file": "3.md"},
+    {"title": "Step 3: Offbox IOS-XR CLI automation over SSH",
+     "file": "4.md"},
+    {"title": "Step 4: Extending offbox automation to Config Management tools",
+     "file": "5.md"}
+  ],
+  "tags": [
+	{"title": "Telemetry"},
+        {"title": "IOS-XR"},
+        {"title": "Cisco"},
+        {"title": "Automation"},
+        {"title": "Monitoring"},
+        {"title": "pipeline"},
+        {"title": "YANG"},
+        {"title": "models"},
+        {"title": "SNMP"},
+        {"title": "onbox"}
+  ],
+  "related": [
+    {           
+                "labId": "03-iosxr-02-telemetry-python",
+                "title": “Creating your first python Telemetry Collector“
+    },
+    {           
+                "labId": "03-iosxr-03-telemetry-c++",
+                "title": "Creating your first c++ Telemetry Collector"
+    },
+    {           
+                "labId": "03-iosxr-04-telemetry-pipeline-golang",
+                "title": “Using Pipeline: An Open-Source Golang Telemetry Collector for IOS-XR”
+    },
+    {           
+                "labId": "03-iosxr-05-telemetry-onbox",
+                "title": “Deploying a Telemetry Collector on-box“
+    }
+  ],
+  "authors": [
+      {"name": "Akshat Sharma", "email": "akshshar@cisco.com"}
+  ],
+  "active": true
+}
