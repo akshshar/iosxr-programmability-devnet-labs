@@ -1,7 +1,7 @@
 {
   "labId": "01-iosxr-02-cli-automation-python",
   "title": "IOS-XR CLI automation - Python",
-  "slug": "If you've been busy developing or utilizing external tools that help automate the IOS-XR CLI over Telnet/SSH using expect style send/receive transactions, then it is time to take a look at the new ZTP hooks embedded on the device. In this lab, we look at ZTP python hooks, enabling you to deterministically handle IOS-XR CLI automation across show commands, config-apply, config-replace and more using on-box python scripts. Further, the python ZTP helper library offers structured return values enabling easier handling of errors and easier  parsing of the CLI information",
+  "slug": "In this lab, we look at IOS-XR's Zero-Touch Provisioning (ZTP) Python hooks for IOS-XR CLI, enabling you to deterministically handle IOS-XR CLI automation across show commands, config-apply, config-replace and more using on-box python scripts. Further, the python ZTP helper library offers structured return values enabling easier handling of errors and easier  parsing of the CLI information",
   "time": 45,
   "byod": false,
   "files": [
