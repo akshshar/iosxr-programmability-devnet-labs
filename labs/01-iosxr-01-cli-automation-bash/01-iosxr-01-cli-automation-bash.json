@@ -26,12 +26,6 @@
         {"title": "Automation"},
         {"title": "onbox"}
   ],
-  "related": [
-    {
-		"labId": "01-iosxr-02-cli-automation-python",
-		"title": "IOS-XR CLI automation - Python"
-    }
-  ],
   "authors": [
       {"name": "Akshat Sharma", "email": "akshshar@cisco.com"}
   ],
