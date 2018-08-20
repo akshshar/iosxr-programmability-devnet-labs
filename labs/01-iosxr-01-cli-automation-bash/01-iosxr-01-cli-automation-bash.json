@@ -5,7 +5,7 @@
   "time": 45,
   "byod": false,
   "files": [
-    {"title": "Prelude",
+    {"title": "Before we Begin",
       "file": "1.md"},
     {"title": "Introduction: Understanding ZTP and the ZTP bash helper library",
       "file": "2.md"},

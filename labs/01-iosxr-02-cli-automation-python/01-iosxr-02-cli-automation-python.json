@@ -5,16 +5,18 @@
   "time": 45,
   "byod": false,
   "files": [
-    {"title": "Introduction: Understanding ZTP and the ZTP python helper library",
+    {"title": "Before we Begin",
       "file": "1.md"},
-    {"title": "Step 1: Playing with the onbox ZTP python hooks",
+    {"title": "Introduction: Understanding ZTP and the ZTP python helper library",
       "file": "2.md"},
-    {"title": "Step 2: Writing your first onbox IOS-XR CLI python script",
+    {"title": "Step 1: Playing with the onbox ZTP python hooks",
       "file": "3.md"},
+    {"title": "Step 2: Writing your first onbox IOS-XR CLI python script",
+      "file": "4.md"},
     {"title": "Step 3: Offbox IOS-XR CLI automation over SSH",
-     "file": "4.md"},
+     "file": "5.md"},
     {"title": "Step 4: Extending offbox automation to Config Management tools",
-     "file": "5.md"}
+     "file": "6.md"}
   ],
   "tags": [
 	{"title": "Python"},
@@ -33,5 +35,5 @@
   "authors": [
       {"name": "Akshat Sharma", "email": "akshshar@cisco.com"}
   ],
-  "active": true
+  "active": false
 }
