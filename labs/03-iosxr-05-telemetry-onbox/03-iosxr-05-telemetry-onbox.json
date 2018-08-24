@@ -1,45 +1,70 @@
 {
-  "labId": "03-iosxr-05-telemetry-onbox",
-  "title": "Deploying a Telemetry Collector on-box",
-  "slug": "Learn how Scalable and Real-time monitoring can be achieved through IOS-XR's model-driven Streaming Telemetry capabilities",
-  "time": 45,
-  "byod": false,
-  "files": [
-    {"title": "Introduction",
-      "file": "1.md"}
-  ],
-  "tags": [
-	{"title": "Telemetry"},
-        {"title": "IOS-XR"},
-        {"title": "Cisco"},
-        {"title": "Automation"},
-        {"title": "Monitoring"},
-        {"title": "pipeline"},
-        {"title": "YANG"},
-        {"title": "models"},
-        {"title": "SNMP"},
-        {"title": "onbox"}
-  ],
-  "related": [
-    {
-                "labId": "03-iosxr-01-telemetry",
-                "title": "IOS-XR Streaming Telemetry: Monitoring done the right way"
-    },
-    {           
-                "labId": "03-iosxr-02-telemetry-python",
-                "title": "Creating your first python Telemetry Collector"
-    },
-    {           
-                "labId": "03-iosxr-03-telemetry-c++",
-                "title": "Creating your first c++ Telemetry Collector"
-    },
-    {           
-                "labId": "03-iosxr-04-telemetry-pipeline-golang",
-                "title": "Using Pipeline: An Open-Source Golang Telemetry Collector for IOS-XR"
-    }
-  ],
-  "authors": [
-      {"name": "Akshat Sharma", "email": "akshshar@cisco.com"}
-  ],
-  "active": false
+    "labId": "03-iosxr-05-telemetry-onbox",
+    "title": "Deploying a Telemetry Collector on-box",
+    "slug": "Learn how Scalable and Real-time monitoring can be achieved through IOS-XR's model-driven Streaming Telemetry capabilities",
+    "time": 45,
+    "byod": false,
+    "files": [
+        {
+            "title": "Introduction",
+            "file": "1.md"
+        }
+    ],
+    "tags": [
+        {
+            "title": "Telemetry"
+        },
+        {
+            "title": "IOS-XR"
+        },
+        {
+            "title": "Cisco"
+        },
+        {
+            "title": "Automation"
+        },
+        {
+            "title": "Monitoring"
+        },
+        {
+            "title": "pipeline"
+        },
+        {
+            "title": "YANG"
+        },
+        {
+            "title": "models"
+        },
+        {
+            "title": "SNMP"
+        },
+        {
+            "title": "onbox"
+        }
+    ],
+    "related": [
+        {
+            "labId": "03-iosxr-01-telemetry",
+            "title": "IOS-XR Streaming Telemetry: Monitoring done the right way"
+        },
+        {
+            "labId": "03-iosxr-02-telemetry-python",
+            "title": "Creating your first python Telemetry Collector"
+        },
+        {
+            "labId": "03-iosxr-03-telemetry-c++",
+            "title": "Creating your first c++ Telemetry Collector"
+        },
+        {
+            "labId": "03-iosxr-04-telemetry-pipeline-golang",
+            "title": "Using Pipeline: An Open-Source Golang Telemetry Collector for IOS-XR"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Akshat Sharma",
+            "email": "akshshar@cisco.com"
+        }
+    ],
+    "active": true
 }

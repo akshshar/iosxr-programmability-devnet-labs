@@ -7,6 +7,7 @@ from subprocess import PIPE
 import pdb
 import re
 import os
+from collections import OrderedDict
 
 with open("labs_state.yml", 'r') as stream:
     try:
@@ -38,7 +39,7 @@ for lab in lab_list:
     stdout, stderr = process.communicate()
 
     if not process.returncode:
-        lab_json = yaml.safe_load(json.dumps(json.loads(stdout)))
+        lab_json = json.loads(stdout, object_pairs_hook=OrderedDict)
         print "Current:  "
         print lab_json["active"]
 
@@ -52,4 +53,4 @@ for lab in lab_list:
             print "##################################################"
  
     with open("./labs/"+lab+"/"+lab_json_filename, 'w') as outfile:
-        json.dump(lab_json, outfile, indent=4)
+        json.dump(lab_json, outfile, indent=4, separators=(',', ': '))

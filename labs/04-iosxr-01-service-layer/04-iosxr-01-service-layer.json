@@ -1,63 +1,110 @@
 {
-  "labId": "04-iosxr-01-service-layer",
-  "title": "Service-Layer APIs: Bring your own Protocol/Controller",
-  "slug": "Learn how Scalable and Real-time monitoring can be achieved through IOS-XR's model-driven Streaming Telemetry capabilities",
-  "time": 45,
-  "byod": false,
-  "files": [
-    {"title": "Deconstructing the IOS-XR Network Stack",
-      "file": "1.md"},
-    {"title": "Where do the Service Layer APIs sit? ",
-      "file": "2.md"},
-    {"title": "Why do we need another API?",
-      "file": "3.md"},
-    {"title": "Making the case for Service-Layer APIs",
-     "file": "4.md"},
-    {"title": "Service-Layer API Architecture",
-     "file": "5.md"},
-    {"title": "Service-Layer API: Template RPCs",
-     "file": "6.md"},
-    {"title": "I'm a Developer, Where and how do I start?",
-     "file": "7.md"},
-    {"title": "The Workflow: Writing your first SL-API GRPC client",
-     "file": "8.md"}
-  ],
-  "tags": [
-	{"title": "Service-Layer"},
-        {"title": "IOS-XR"},
-        {"title": "Cisco"},
-        {"title": "Automation"},
-        {"title": "Events"},
-        {"title": "gRPC"},
-        {"title": "GPB"},
-        {"title": "model-driven"},
-        {"title": "RIB"},
-        {"title": "Label Switch Database"},
-        {"title": "Interfaces"},
-        {"title": "BFD"},
-        {"title": "Performance"},
-        {"title": "onbox"}
-  ],
-  "related": [
-    {
-                "labId": "04-iosxr-01-service-layer",
-                "title": "Service-Layer APIs: Bring your own Protocol/Controller"
-    },
-    {
-                "labId": "04-iosxr-03-service-layer-c++",
-                "title": "Your first c++ service-layer API RIB client"
-    },
-    {
-                "labId": "04-iosxr-04-service-layer-golang",
-                "title": "Your first golang service-layer API RIB client"
-    },
-    {
-                "labId": "04-iosxr-05-service-layer-onbox",
-                "title": "Deploying a Service-layer API client on-box"
-    }
-  ],
-  "authors": [
-      {"name": "Akshat Sharma", "email": "akshshar@cisco.com"}
-  ],
-  "active": false
+    "labId": "04-iosxr-01-service-layer",
+    "title": "Service-Layer APIs: Bring your own Protocol/Controller",
+    "slug": "Learn how Scalable and Real-time monitoring can be achieved through IOS-XR's model-driven Streaming Telemetry capabilities",
+    "time": 45,
+    "byod": false,
+    "files": [
+        {
+            "title": "Deconstructing the IOS-XR Network Stack",
+            "file": "1.md"
+        },
+        {
+            "title": "Where do the Service Layer APIs sit? ",
+            "file": "2.md"
+        },
+        {
+            "title": "Why do we need another API?",
+            "file": "3.md"
+        },
+        {
+            "title": "Making the case for Service-Layer APIs",
+            "file": "4.md"
+        },
+        {
+            "title": "Service-Layer API Architecture",
+            "file": "5.md"
+        },
+        {
+            "title": "Service-Layer API: Template RPCs",
+            "file": "6.md"
+        },
+        {
+            "title": "I'm a Developer, Where and how do I start?",
+            "file": "7.md"
+        },
+        {
+            "title": "The Workflow: Writing your first SL-API GRPC client",
+            "file": "8.md"
+        }
+    ],
+    "tags": [
+        {
+            "title": "Service-Layer"
+        },
+        {
+            "title": "IOS-XR"
+        },
+        {
+            "title": "Cisco"
+        },
+        {
+            "title": "Automation"
+        },
+        {
+            "title": "Events"
+        },
+        {
+            "title": "gRPC"
+        },
+        {
+            "title": "GPB"
+        },
+        {
+            "title": "model-driven"
+        },
+        {
+            "title": "RIB"
+        },
+        {
+            "title": "Label Switch Database"
+        },
+        {
+            "title": "Interfaces"
+        },
+        {
+            "title": "BFD"
+        },
+        {
+            "title": "Performance"
+        },
+        {
+            "title": "onbox"
+        }
+    ],
+    "related": [
+        {
+            "labId": "04-iosxr-01-service-layer",
+            "title": "Service-Layer APIs: Bring your own Protocol/Controller"
+        },
+        {
+            "labId": "04-iosxr-03-service-layer-c++",
+            "title": "Your first c++ service-layer API RIB client"
+        },
+        {
+            "labId": "04-iosxr-04-service-layer-golang",
+            "title": "Your first golang service-layer API RIB client"
+        },
+        {
+            "labId": "04-iosxr-05-service-layer-onbox",
+            "title": "Deploying a Service-layer API client on-box"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Akshat Sharma",
+            "email": "akshshar@cisco.com"
+        }
+    ],
+    "active": true
 }

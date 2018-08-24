@@ -1,39 +1,66 @@
 {
-  "labId": "01-iosxr-02-cli-automation-python",
-  "title": "IOS-XR CLI automation - Python",
-  "slug": "In this lab, we look at IOS-XR's Zero-Touch Provisioning (ZTP) Python hooks for IOS-XR CLI, enabling you to deterministically handle IOS-XR CLI automation across show commands, config-apply, config-replace and more using on-box python scripts. Further, the python ZTP helper library offers structured return values enabling easier handling of errors and easier  parsing of the CLI information",
-  "time": 45,
-  "byod": false,
-  "files": [
-    {"title": "Before we Begin",
-      "file": "1.md"},
-    {"title": "Introduction: Understanding ZTP and the ZTP python helper library",
-      "file": "2.md"},
-    {"title": "Step 1: Playing with the onbox ZTP python hooks",
-      "file": "3.md"},
-    {"title": "Step 2: Writing your first onbox IOS-XR CLI python script",
-      "file": "4.md"},
-    {"title": "Step 3: Offbox IOS-XR CLI automation over SSH",
-     "file": "5.md"},
-    {"title": "Step 4: Extending offbox automation to Config Management tools",
-     "file": "6.md"}
-  ],
-  "tags": [
-	{"title": "Python"},
-        {"title": "IOS-XR"},
-        {"title": "Cisco"},
-        {"title": "CLI"},
-        {"title": "Automation"},
-        {"title": "onbox"}
-  ],
-  "related": [
-    {
-		"labId": "01-iosxr-01-cli-automation-bash",
-		"title": "IOS-XR CLI automation - Bash"
-    }
-  ],
-  "authors": [
-      {"name": "Akshat Sharma", "email": "akshshar@cisco.com"}
-  ],
-  "active": false
+    "labId": "01-iosxr-02-cli-automation-python",
+    "title": "IOS-XR CLI automation - Python",
+    "slug": "In this lab, we look at IOS-XR's Zero-Touch Provisioning (ZTP) Python hooks for IOS-XR CLI, enabling you to deterministically handle IOS-XR CLI automation across show commands, config-apply, config-replace and more using on-box python scripts. Further, the python ZTP helper library offers structured return values enabling easier handling of errors and easier  parsing of the CLI information",
+    "time": 45,
+    "byod": false,
+    "files": [
+        {
+            "title": "Before we Begin",
+            "file": "1.md"
+        },
+        {
+            "title": "Introduction: Understanding ZTP and the ZTP python helper library",
+            "file": "2.md"
+        },
+        {
+            "title": "Step 1: Playing with the onbox ZTP python hooks",
+            "file": "3.md"
+        },
+        {
+            "title": "Step 2: Writing your first onbox IOS-XR CLI python script",
+            "file": "4.md"
+        },
+        {
+            "title": "Step 3: Offbox IOS-XR CLI automation over SSH",
+            "file": "5.md"
+        },
+        {
+            "title": "Step 4: Extending offbox automation to Config Management tools",
+            "file": "6.md"
+        }
+    ],
+    "tags": [
+        {
+            "title": "Python"
+        },
+        {
+            "title": "IOS-XR"
+        },
+        {
+            "title": "Cisco"
+        },
+        {
+            "title": "CLI"
+        },
+        {
+            "title": "Automation"
+        },
+        {
+            "title": "onbox"
+        }
+    ],
+    "related": [
+        {
+            "labId": "01-iosxr-01-cli-automation-bash",
+            "title": "IOS-XR CLI automation - Bash"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Akshat Sharma",
+            "email": "akshshar@cisco.com"
+        }
+    ],
+    "active": true
 }
