@@ -1,0 +1,36 @@
+---
+
+01-iosxr-01:
+    active: true
+01-iosxr-02:
+    active: true
+02-iosxr-01:
+    active: true
+02-iosxr-02:
+    active: true
+02-iosxr-03:
+    active: true
+02-iosxr-04:
+    active: true
+02-iosxr-05:
+    active: true
+03-iosxr-01:
+    active: true
+03-iosxr-02:
+    active: true
+03-iosxr-03:
+    active: true
+03-iosxr-04:
+    active: true
+03-iosxr-05:
+    active: true
+04-iosxr-01:
+    active: true
+04-iosxr-02:
+    active: true
+04-iosxr-03:
+    active: true
+04-iosxr-04:
+    active: true
+04-iosxr-05:
+    active: true
