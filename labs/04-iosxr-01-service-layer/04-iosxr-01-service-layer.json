@@ -1,7 +1,7 @@
 {
     "labId": "04-iosxr-01-service-layer",
     "title": "Service-Layer APIs: Bring your own Protocol/Controller",
-    "slug": "Learn how Scalable and Real-time monitoring can be achieved through IOS-XR's model-driven Streaming Telemetry capabilities",
+    "slug": "Learn how you can bring your own control plane (Controllers/Protocol-Stacks) on IOS-XR by using the highly performant Service-Layer API to interact with the network infrastructure layer components such as RIB, LSD, BFD, interfaces and more. ",
     "time": 45,
     "byod": false,
     "files": [
@@ -10,32 +10,24 @@
             "file": "1.md"
         },
         {
-            "title": "Where do the Service Layer APIs sit? ",
+            "title": "Why do we need another API? ",
             "file": "2.md"
         },
         {
-            "title": "Why do we need another API?",
+            "title": "Making the case for Service-Layer APIs",
             "file": "3.md"
         },
         {
-            "title": "Making the case for Service-Layer APIs",
+            "title": "Service-Layer API Architecture",
             "file": "4.md"
         },
         {
-            "title": "Service-Layer API Architecture",
+            "title": "I'm a Developer, Where and how do I start?",
             "file": "5.md"
         },
         {
-            "title": "Service-Layer API: Template RPCs",
-            "file": "6.md"
-        },
-        {
-            "title": "I'm a Developer, Where and how do I start?",
-            "file": "7.md"
-        },
-        {
             "title": "The Workflow: Writing your first SL-API GRPC client",
-            "file": "8.md"
+            "file": "6.md"
         }
     ],
     "tags": [
