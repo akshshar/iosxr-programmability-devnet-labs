@@ -1,5 +1,5 @@
 {
-    "labId": "04-iosxr-02-service-layer-c++",
+    "labId": "04-iosxr-03-service-layer-c++",
     "title": "Your first c++ service-layer API RIB client",
     "slug": "Learn how to write your first service-layer API client in c++. We will select the RIB functionality vertical and attempt to program routes into the IOS-XR RIB",
     "time": 45,

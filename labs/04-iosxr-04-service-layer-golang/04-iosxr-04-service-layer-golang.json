@@ -1,5 +1,5 @@
 {
-    "labId": "04-iosxr-02-service-layer-golang",
+    "labId": "04-iosxr-04-service-layer-golang",
     "title": "Your first golang service-layer API RIB client",
     "slug": "Learn how to write your first service-layer API client in golang. We will select the RIB functionality vertical and attempt to program routes into the IOS-XR RIB",
     "time": 45,
