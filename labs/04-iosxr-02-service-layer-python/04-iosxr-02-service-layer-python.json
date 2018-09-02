@@ -1,13 +1,29 @@
 {
     "labId": "04-iosxr-02-service-layer-python",
     "title": "Your first python service-layer API RIB client",
-    "slug": "Learn how Scalable and Real-time monitoring can be achieved through IOS-XR's model-driven Streaming Telemetry capabilities",
+    "slug": "Learn how to write your first service-layer API client in python. We will select the RIB functionality vertical and attempt to program routes into the IOS-XR RIB",
     "time": 45,
     "byod": false,
     "files": [
         {
-            "title": "Introduction",
+            "title": "Before we Begin",
             "file": "1.md"
+        },
+        {
+            "title": "Enabling service-layer on the Router",
+            "file": "2.md"
+        },
+        {
+            "title": "Client Code: Install gRPC and regenerate bindings",
+            "file": "3.md"
+        },
+        {
+            "title": "Client Code: Running existing tutorials",
+            "file": "4.md"
+        },
+        {
+            "title": "Client Code: Deconstructing a Python SL-API client",
+            "file": "5.md"
         }
     ],
     "tags": [
