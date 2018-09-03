@@ -18,11 +18,11 @@
             "file": "3.md"
         },
         {
-            "title": "Client Code: Initialization and VRF registration",
+            "title": "Client Code: Running existing tutorials",
             "file": "4.md"
         },
         {
-            "title": "Client Code: Programming Route Objects",
+            "title": "Client Code: Deconstructing a c++ SL-API client",
             "file": "5.md"
         }
     ],
