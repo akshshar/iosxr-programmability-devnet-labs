@@ -6,8 +6,24 @@
     "byod": false,
     "files": [
         {
-            "title": "Introduction",
+            "title": "Before we Begin",
             "file": "1.md"
+        },
+        {
+            "title": "Introducing Model-Driven Telemetry",
+            "file": "2.md"
+        },
+        {
+            "title": "Configuring Model-Driven Telemetry (MDT) using CLI",
+            "file": "3.md"
+        },
+        {
+            "title": "Configuring Model-Driven Telemetry (MDT) using YANG",
+            "file": "4.md"
+        },
+        {
+            "title": "Setting up a Telemetry Client/Collector",
+            "file": "5.md"
         }
     ],
     "tags": [
