@@ -1,70 +1,4 @@
 {
-    "labId": "01-iosxr-01-cli-automation-bash",
-    "title": "IOS-XR CLI automation - Bash",
-    "slug": "In this lab, we look at IOS-XR's Zero-Touch Provisioning (ZTP) Bash hooks for IOS-XR CLI, enabling you to deterministically handle IOS-XR CLI automation across show commands, config-apply, config-replace and more using on-box bash scripts or remote bash commands.",
-    "time": 45,
-    "byod": false,
-    "files": [
-        {
-            "title": "Before we Begin",
-            "file": "1.md"
-        },
-        {
-            "title": "Introduction: Understanding ZTP and the ZTP bash helper library",
-            "file": "2.md"
-        },
-        {
-            "title": "Step 1: Playing with the onbox ZTP bash hooks",
-            "file": "3.md"
-        },
-        {
-            "title": "Step 2: Writing your first onbox IOS-XR CLI bash script",
-            "file": "4.md"
-        },
-        {
-            "title": "Step 3: Offbox IOS-XR CLI automation over SSH",
-            "file": "5.md"
-        },
-        {
-            "title": "Step 4: Extending offbox automation to Config Management tools",
-            "file": "6.md"
-        }
-    ],
-    "tags": [
-        {
-            "title": "Bash"
-        },
-        {
-            "title": "IOS-XR"
-        },
-        {
-            "title": "Cisco"
-        },
-        {
-            "title": "CLI"
-        },
-        {
-            "title": "Automation"
-        },
-        {
-            "title": "onbox"
-        }
-    ],
-    "related": [
-        {
-            "labId": "01-iosxr-02-cli-automation-python",
-            "title": "IOS-XR CLI automation - Python"
-        }
-    ],
-    "authors": [
-        {
-            "name": "Akshat Sharma",
-            "email": "akshshar@cisco.com"
-        }
-    ],
-    "active": true
-}
-=======
   "labId": "01-iosxr-01-cli-automation-bash",
   "title": "IOS-XR CLI automation - Bash",
   "slug": "In this lab, we look at IOS-XR's Zero-Touch Provisioning (ZTP) Bash hooks for IOS-XR CLI, enabling you to deterministically handle IOS-XR CLI automation across show commands, config-apply, config-replace and more using on-box bash scripts or remote bash commands.",
@@ -87,6 +21,7 @@
   "tags": [
 	{"title": "Bash"},
         {"title": "IOS-XR"},
+        {"title": "Cisco"},
         {"title": "CLI"},
         {"title": "Automation"},
         {"title": "onbox"}
@@ -102,4 +37,3 @@
   ],
   "active": true
 }
->>>>>>> cf43762d181e30cf3e3c4ed2efb1ebd1ddc81d15
