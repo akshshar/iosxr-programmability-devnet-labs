@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "labId": "01-iosxr-01-cli-automation-bash",
     "title": "IOS-XR CLI automation - Bash",
     "slug": "In this lab, we look at IOS-XR's Zero-Touch Provisioning (ZTP) Bash hooks for IOS-XR CLI, enabling you to deterministically handle IOS-XR CLI automation across show commands, config-apply, config-replace and more using on-box bash scripts or remote bash commands.",
