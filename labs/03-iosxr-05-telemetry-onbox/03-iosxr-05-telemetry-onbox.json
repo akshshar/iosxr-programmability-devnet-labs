@@ -6,7 +6,7 @@
     "byod": false,
     "files": [
         {
-            "title": "Introduction",
+            "title": "Before we Begin",
             "file": "1.md"
         },
         {
@@ -26,7 +26,7 @@
             "file": "5.md"
         },
         {
-            "title": "Real World use cases",
+            "title": "Why onbox Telemetry?",
             "file": "6.md"
         }
     ],
