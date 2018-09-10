@@ -5,22 +5,22 @@
     "time": 45,
     "byod": false,
     "files": [
-      {
-          "title": "Before we Begin",
-          "file": "1.md"
-      },
-      {
-          "title": "Enabling Model-Driven Telemetry on the Router",
-          "file": "2.md"
-      },
-      {
-          "title": "Client Code: Install gRPC and generate bindings",
-          "file": "3.md"
-      },
-      {
-          "title": "Client Code: Writing a c++ Telemetry Collector",
-          "file": "4.md"
-      }
+        {
+            "title": "Before we Begin",
+            "file": "1.md"
+        },
+        {
+            "title": "Enabling Model-Driven Telemetry on the Router",
+            "file": "2.md"
+        },
+        {
+            "title": "Client Code: Install gRPC and generate bindings",
+            "file": "3.md"
+        },
+        {
+            "title": "Client Code: Writing a c++ Telemetry Collector",
+            "file": "4.md"
+        }
     ],
     "tags": [
         {
