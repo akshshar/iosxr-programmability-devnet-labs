@@ -1,7 +1,7 @@
 {
     "labId": "04-iosxr-02-service-layer-python",
     "title": "Your first python service-layer API client",
-    "slug": "Learn how to write your first service-layer API client in python along with a host of examples across functionality vertials.We will select the RIB functionality vertical and attempt to program routes into the IOS-XR RIB",
+    "slug": "Learn how to write your first service-layer API client in python along with a host of examples across functionality verticals.We will select the RIB functionality vertical and attempt to program routes into the IOS-XR RIB",
     "time": 45,
     "byod": false,
     "files": [
