@@ -1,13 +1,33 @@
 {
     "labId": "03-iosxr-05-telemetry-onbox",
     "title": "Deploying a Telemetry Collector on-box",
-    "slug": "Learn how Scalable and Real-time monitoring can be achieved through IOS-XR's model-driven Streaming Telemetry capabilities",
+    "slug": "Understand the tips and tricks of IOS-XR's application hosting infrastructure and learn how to build and deploy your own docker-based Telemetry client/collector application on an IOS-XR router.",
     "time": 45,
     "byod": false,
     "files": [
         {
             "title": "Introduction",
             "file": "1.md"
+        },
+        {
+            "title": "Enabling Model-Driven Telemetry on the router",
+            "file": "2.md"
+        },
+        {
+            "title": "Understand App-Hosting on IOS-XR",
+            "file": "3.md"
+        },
+        {
+            "title": "Build your service-layer API container application",
+            "file": "4.md"
+        },
+        {
+            "title": "Deploy and Run the container application",
+            "file": "5.md"
+        },
+        {
+            "title": "Real World use cases",
+            "file": "5.md"
         }
     ],
     "tags": [

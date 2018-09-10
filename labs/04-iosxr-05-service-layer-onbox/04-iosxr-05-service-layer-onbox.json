@@ -1,7 +1,7 @@
 {
     "labId": "04-iosxr-05-service-layer-onbox",
     "title": "Deploying a Service-layer API client on-box",
-    "slug": "Learn how the service-layer API can be utilized by Onbox",
+    "slug": "Understand the tips and tricks of IOS-XR's application hosting infrastructure and learn how to build and deploy your own docker-based Service-Layer API client application on an IOS-XR Router.",
     "time": 45,
     "byod": false,
     "files": [

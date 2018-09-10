@@ -1,7 +1,7 @@
 {
     "labId": "03-iosxr-02-telemetry-python",
     "title": "Creating your first python Telemetry Collector",
-    "slug": "Learn how Scalable and Real-time monitoring can be achieved through IOS-XR's model-driven Streaming Telemetry capabilities",
+    "slug": "Learn to create your own python based Telemetry client/collector and stream model-driven data over gRPC.",
     "time": 45,
     "byod": false,
     "files": [
