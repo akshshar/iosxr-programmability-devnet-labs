@@ -1,7 +1,7 @@
 {
     "labId": "02-iosxr-02-yang-models-ncclient",
     "title": "IOS-XR YANG models: Using ncclient over netconf",
-    "slug": "Understand the Model-Driven Manageability Layer of the IOS-XR stack, based on Yang models",
+    "slug": "Learn how to use ncclient to interact with IOS-XR native and OpenConfig YANG models in IOS-XR. In this lab we look at the ncclient tool and its available hooks, as we try to send and receive YANG-modeled XML transactions with an IOS-XR router.",
     "time": 45,
     "byod": false,
     "files": [
