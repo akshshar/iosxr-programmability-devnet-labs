@@ -1,7 +1,7 @@
 {
     "labId": "02-iosxr-01-yang-models",
     "title": "Model-Driven Manageability: Yang Models on IOS-XR",
-    "slug": "Understand the YANG-based Model-Driven Manageability Layer of the IOS-XR stack",
+    "slug": "Understand the YANG-based Model-Driven Manageability Layer of the IOS-XR stack. IOS-XR offers support for native and Openconfig Yang models enabling you to deterministically automate IOS-XR configuration.",
     "time": 45,
     "byod": false,
     "files": [
